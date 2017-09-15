@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RemText</string>
+    <string name="action_Edit">Edit</string>
+    <string name="action_Delete">Delete</string>
+    <string name="title_activity_text_me__later">Text me Later</string>
+    <string name="title_activity_message">Message</string>
+    <string name="title_activity_inbox">Inbox</string>
+</resources>
